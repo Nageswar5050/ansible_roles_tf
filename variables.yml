@@ -1,0 +1,10 @@
+MONGODB_HOST: mongo.challa.cloud # submit your host
+REDIS_HOST: redis.challa.cloud
+MYSQL_HOST: mysql.challa.cloud
+RABBITMQ_HOST: rabbitmq.challa.cloud
+CATALOGUE_HOST: catalogue.challa.cloud
+USER_HOST: user.challa.cloud
+CART_HOST: cart.challa.cloud
+SHIPPING_HOST: shipping.challa.cloud
+PAYMENT_HOST: payment.challa.cloud
+DISPATCH_HOST: dispatch.challa.cloud

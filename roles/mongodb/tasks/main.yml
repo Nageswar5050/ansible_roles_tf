@@ -4,7 +4,7 @@
     dest: /etc/yum.repos.d/mongo.repo
 
 - name: Install "{{component}}"
-  package:
+  yum:
     name: mongodb-org
     state: present
     update_cache: true

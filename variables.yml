@@ -1,4 +1,4 @@
-MONGODB_HOST: mongo.challa.cloud # submit your host
+MONGODB_HOST: mongodb.challa.cloud # submit your host
 REDIS_HOST: redis.challa.cloud
 MYSQL_HOST: mysql.challa.cloud
 RABBITMQ_HOST: rabbitmq.challa.cloud
